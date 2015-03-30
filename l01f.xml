@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <project path="device/lge/g2-common" name="MoKee/android_device_lge_g2-common" revision="mkl" />
-<project path="kernel/lge/msm8971" name="MoKee/android_kernel_lge_msm8974" revision="mkl" />
+<project path="kernel/lge/msm8974" name="MoKee/android_kernel_lge_msm8974" revision="mkl" />
 <project path="vendor/lge" name="blastagator/lg-devs_vendor_lge_g2-only" revision="cm-12.0" />
-
+<project path="device/lge/l01f" name="akw28888/android_device_lge_l01f" revision="mkl" />
 <project path="device/qcom/common" name="MoKee/android_device_qcom_common" revision="mkl" />
 </manifest>
